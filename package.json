@@ -1,0 +1,24 @@
+{
+  "name": "profile-md-generator",
+  "version": "1.0.0",
+  "description": "a profile in markdown generator app built using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdelacue/profile-md-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdelacue/profile-md-generator/issues"
+  },
+  "homepage": "https://github.com/vdelacue/profile-md-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "questions": "^0.0.6"
+  }
+}

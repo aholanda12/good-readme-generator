@@ -1,10 +1,8 @@
 
-# Title
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+# Good README Generator
 
 ## Description
-Description
+This app will take user input and create a readme properly formatted with their information
 
 ## Table of Contents
 
@@ -21,10 +19,10 @@ Description
 * [Questions](#Questions)
 
 ## Installation
-Install
+Open the application in your respective terminal, type in 'node app.js' and answer the questions. When complete, the application will run.
 
 ## Usage
-Usag
+Please read above
 
 ## License
 MIT
@@ -33,7 +31,7 @@ MIT
 aholanda12
 
 ## Test
-Test
+Run tests
 
 ## Questions
 

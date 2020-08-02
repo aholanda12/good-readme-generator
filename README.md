@@ -1,10 +1,10 @@
 
-# Title
+# Good README Generator
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 
 ## Description
-Description
+This application allows users to input data that will then format it into a proper README so that they can show off their project.
 
 ## Table of Contents
 
@@ -21,10 +21,10 @@ Description
 * [Questions](#Questions)
 
 ## Installation
-Install
+Open your respective terminal and type in 'node app.js' and then answer the prompted questions.
 
 ## Usage
-Usag
+It allows for a README to be generated based off user input.
 
 ## License
 MIT
@@ -33,7 +33,7 @@ MIT
 aholanda12
 
 ## Test
-Test
+Try the application and then compare the generated README
 
 ## Questions
 
